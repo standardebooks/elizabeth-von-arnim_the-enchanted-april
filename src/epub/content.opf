@@ -43,14 +43,15 @@
 		<meta property="term" refines="#subject-4">sh2008103512</meta>
 		<meta property="authority" refines="#subject-5">LCSH</meta>
 		<meta property="term" refines="#subject-5">sh2007101930</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Fiction</meta>
+		<dc:description id="description">Four women spend a month-long holiday at a medieval Italian castle, where they find themselves renewed and transformed by the beauty around them.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Four strangers, each enchanted by an advertisement addressed “To Those who Appreciate Wistaria and Sunshine,” impulsively pool their savings to lease a medieval Italian castle for the month of April. All are deeply dissatisfied with life and in need of escape: awkward Mrs. Wilkins, increasingly resentful of a husband who largely ignores her; proper Mrs. Arbuthnot, whose own marriage seems headed toward estrangement; beautiful and unmarried Lady Caroline Dester, tired of men constantly “grabbing” at her; and elderly Mrs. Fisher, widowed and walled off in memories of the past. As they come to know one another, each woman finds herself gradually transformed by the beauty of San Salvatore —a magical place where conflict just might turn to friendship, and even the most soured relationship has a chance of being salvaged.&lt;/p&gt;
+			&lt;p&gt;&lt;aLater adapted into an Academy Award-nominated film, &lt;i&gt;The Enchanted April&lt;/i&gt; was an instant bestseller upon its publication in 1922. It continues to enchant readers today as a lighthearted, often comedic exploration of friendship and romance that is steeped in vibrant, intoxicating descriptions of wistaria and sunshine.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/16389</dc:source>
-		<dc:source>IA_URL</dc:source>
+		<dc:source>https://catalog.hathitrust.org/Record/100192879</dc:source>
 		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
@@ -58,22 +59,17 @@
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/elizabeth-von-arnim_the-enchanted-april</meta>
 		<dc:creator id="author">Elizabeth von Arnim</dc:creator>
 		<meta property="file-as" refines="#author">Arnim, Elizabeth von</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Elizabeth_von_Arnim</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">CONTRIBUTOR_NACOAF_URI</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n81093301</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Anonymous</dc:contributor>
+		<meta property="file-as" refines="#artist">Anonymous</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_URL</meta>
+		<dc:contributor id="transcriber-1">Anonymous</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Anonymous</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">Jennifer Frye</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Frye, Jennifer</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">cov</meta>

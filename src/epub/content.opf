@@ -47,12 +47,12 @@
 		<dc:description id="description">Four women spend a month-long holiday at a medieval Italian castle, where they find themselves renewed and transformed by the beauty around them.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Four strangers, each enchanted by an advertisement addressed “To Those who Appreciate Wistaria and Sunshine,” impulsively pool their savings to lease a medieval Italian castle for the month of April. All are deeply dissatisfied with life and in need of escape: awkward Mrs. Wilkins, increasingly resentful of a husband who largely ignores her; proper Mrs. Arbuthnot, whose own marriage seems headed toward estrangement; beautiful and unmarried Lady Caroline Dester, tired of men constantly “grabbing” at her; and elderly Mrs. Fisher, widowed and walled off in memories of the past. As they come to know one another, each woman finds herself gradually transformed by the beauty of San Salvatore —a magical place where conflict just might turn to friendship, and even the most soured relationship has a chance of being salvaged.&lt;/p&gt;
-			&lt;p&gt;&lt;aLater adapted into an Academy Award-nominated film, &lt;i&gt;The Enchanted April&lt;/i&gt; was an instant bestseller upon its publication in 1922. It continues to enchant readers today as a lighthearted, often comedic exploration of friendship and romance that is steeped in vibrant, intoxicating descriptions of wistaria and sunshine.&lt;/p&gt;
+			&lt;p&gt;Later adapted into an Academy Award-nominated film, &lt;i&gt;The Enchanted April&lt;/i&gt; was an instant bestseller upon its publication in 1922. It continues to enchant readers today as a lighthearted, often comedic exploration of friendship and romance that is steeped in vibrant, intoxicating descriptions of wistaria and sunshine.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/16389</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/100192879</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<meta property="se:production-notes">None.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Enchanted_April</meta>

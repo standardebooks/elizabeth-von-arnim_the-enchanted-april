@@ -53,7 +53,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/16389</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/100192879</dc:source>
-		<meta property="se:word-count">79738</meta>
+		<meta property="se:word-count">78680</meta>
 		<meta property="se:reading-ease.flesch">72.26</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Enchanted_April</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/elizabeth-von-arnim_the-enchanted-april</meta>
